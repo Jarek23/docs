@@ -1,6 +1,6 @@
 {
   "defaultSeverity": "error",
-  "extends": ["tslint:recommended"],adsdad
+  "extends": ["tslint:recommended"],adsdadsdf
   "jsRules": {},
   "rules": {
     "no-console": false,
