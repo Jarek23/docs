@@ -5,7 +5,7 @@
   "rules": {
     "no-console": false,
     "member-access": false,
-    "object-literal-sort-keys": false,sasdad
+    "object-literal-sort-keys": false,sassda
     "ordered-imports": false,
     "interface-name": false,
     "no-submodule-imports": false,
